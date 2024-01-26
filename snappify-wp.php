@@ -1,9 +1,27 @@
 <?php
 /**
- * Plugin Name: Snappify WP
- * Description: Provides a Gutenberg block for embedding snaps
- * Version: 1.0.0
+ *
+ * @link              https://snappify.com
+ * @since             1.0.0
+ * @package           Snappify_WP
+ *
+ * @wordpress-plugin
+ * Plugin Name:       Snappify WP
+ * Plugin URI:        https://snappify.com
+ * Description:       Provides a Gutenberg block for embedding snaps
+ * Version:           1.0.0
+ * Author:            Aptex
+ * Author URI:        https://aptex.de
+ * License:           MIT
+ * License URI:       https://opensource.org/licenses/MIT
+ * Text Domain:       snappify-wp
+ * Domain Path:       /languages
  */
+
+// If this file is called directly, abort.
+if ( ! defined( 'WPINC' ) ) {
+	die;
+}
 
 function snappify_register_proxy_endpoint() {
     register_rest_route('snappify', '/fetch/', array(
