@@ -1,0 +1,27 @@
+{
+  "name": "snappify-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Aptex",
+    "email": "consulting@aptex.de",
+    "url": "https://aptex.de"
+  },
+  "contributors": [
+    {
+      "name": "Martin Staudt",
+      "email": "ms@aptex.de",
+      "url": "https://aptex.de"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^27.1.0"
+  }
+}

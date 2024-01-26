@@ -1,0 +1,7 @@
+{
+  "apiVersion": 3,
+  "title": "Snappify",
+  "name": "snappify/block",
+  "category": "embed",
+  "editorScript": "file:./build/index.js"
+}
