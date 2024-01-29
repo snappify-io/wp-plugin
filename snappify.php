@@ -3,10 +3,10 @@
  *
  * @link              https://snappify.com
  * @since             1.0.0
- * @package           Snappify_WP
+ * @package           Snappify
  *
  * @wordpress-plugin
- * Plugin Name:       snappify WP
+ * Plugin Name:       snappify
  * Plugin URI:        https://snappify.com
  * Description:       Provides a Gutenberg block for embedding snaps
  * Version:           1.0.0
@@ -14,7 +14,7 @@
  * Author URI:        https://aptex.de
  * License:           GPLv3
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
- * Text Domain:       snappify-wp
+ * Text Domain:       snappify
  * Domain Path:       /languages
  */
 

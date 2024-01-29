@@ -1,33 +1,33 @@
-=== snappify WP ===
-Contributors: aptex, snappifz
-Tags: wordpress, snappify, embed, snaps, gutenberg
+=== snappify ===
+Contributors: aptex, snappify
+Tags: snappify, embed, snaps, gutenberg
 Requires at least: 6.4
 Tested up to: 6.4
 Stable tag: 1.0.0
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Embed your Snappify snaps directly into your WordPress site with ease.
+Embed your snappify snaps directly into your WordPress site with ease.
 
 == Description ==
-snappify WP is the official WordPress plugin for snappify, designed to seamlessly integrate Snappify's snap embedding functionality into your WordPress site. This plugin allows you to easily embed your public Snappify snaps into your WordPress content using a custom Gutenberg block. Future updates will introduce more features, such as an Elementor widget, to enhance your embedding capabilities.
+This is the official WordPress plugin for snappify, designed to seamlessly integrate snappify's snap embedding functionality into your WordPress site. This plugin allows you to easily embed your public snappify snaps into your WordPress content using a custom Gutenberg block. Future updates will introduce more features, such as an Elementor widget, to enhance your embedding capabilities.
 
 **Features:**
-- Embed Snappify snaps into your WordPress content with a custom Gutenberg block.
+- Embed snappify snaps into your WordPress content with a custom Gutenberg block.
 - Easy to use: simply paste your public snap URL into the block's field.
 - More functionalities like Elementor widget support coming soon.
 
 == Installation ==
-1. Upload the plugin files to the `/wp-content/plugins/snappify-wp` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/snappify` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Use the Gutenberg editor to add the snappify WP block to your posts or pages.
+3. Use the Gutenberg editor to add the snappify block to your posts or pages.
 
 == Frequently Asked Questions ==
 
 = Do I need a snappify account to use this plugin? =
 Yes, you must have a free account on snappify.com, and your snaps must be set to public to embed them in your WordPress site.
 
-= Where can I find the Terms of Service for Snappify? =
+= Where can I find the Terms of Service for snappify? =
 You can review the snappify Terms of Service here: https://snappify.com/legal/terms-of-service
 
 == Changelog ==
