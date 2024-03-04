@@ -18,11 +18,11 @@ This is the official WordPress plugin for snappify, designed to seamlessly integ
 - More functionalities like Elementor widget support coming soon.
 
 **Third-Party Service Usage Disclosure:**
-This plugin relies on Snappify, an external third-party service, to embed snaps into your WordPress content. When using this plugin, data (such as the URLs of the snaps you wish to embed) is sent to Snappify to retrieve the necessary embedding code. Please ensure you are aware of and comply with any legal requirements concerning data transmission and privacy that may apply to your use of Snappify.
+This plugin relies on snappify, an external third-party service, to embed snaps into your WordPress content. When using this plugin, data (such as the URLs of the snaps you wish to embed) is sent to snappify to retrieve the necessary embedding code. Please ensure you are aware of and comply with any legal requirements concerning data transmission and privacy that may apply to your use of snappify.
 
-Snappify Service: https://snappify.com
-Terms of Service: https://snappify.com/legal/terms-of-service
-Privacy Policy: https://snappify.com/legal/privacy-policy
+- snappify Service: https://snappify.com
+- Terms of Service: https://snappify.com/legal/terms-of-service
+- Privacy Policy: https://snappify.com/legal/privacy-policy
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/snappify` directory, or install the plugin through the WordPress plugins screen directly.
