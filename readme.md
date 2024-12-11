@@ -1,6 +1,6 @@
 # snappify
 **Official WordPress plugin for snappify** - Embed your snaps directly into your WordPress site with ease.
-The plugin is (developed and maintained by our friends at [Aptex - #wirmachensoftware](https://aptex.de))
+The plugin is (developed and maintained by our friends at [Aptex - #WirMachenSoftware](https://aptex.de))
 
 This is the official WordPress plugin for snappify, designed to seamlessly integrate snappify's snap embedding
 functionality into your WordPress site. Currently, the plugin offers a custom Gutenberg block that allows you to input
@@ -34,6 +34,7 @@ Q: Where can I find the Terms of Service for snappify?
 A: You can review the snappify Terms of Service here: https://snappify.com/legal/terms-of-service
 
 ## Changelog
+1.0.1 Updated to latest version.
 
 1.0.0 Initial release.
 
@@ -44,4 +45,4 @@ For any issues or support requests, please reach out to us through one of the fo
 - Open an issue in our [GitHub repository](https://github.com/snappify-io/wp-plugin)
 
 We welcome contributions to the snappify plugin.
-The plugin is currently developed and maintained by our friends at [Aptex - #wirmachensoftware](https://aptex.de), and we are open to community contributions to make it even better.
+The plugin is currently developed and maintained by our friends at [Aptex - #WirMachenSoftware](https://aptex.de), and we are open to community contributions to make it even better.

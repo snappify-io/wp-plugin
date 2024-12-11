@@ -2,8 +2,8 @@
 Contributors: aptex, snappify
 Tags: snappify, embed, snaps, gutenberg
 Requires at least: 6.4
-Tested up to: 6.4
-Stable tag: 1.0.0
+Tested up to: 6.7
+Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -38,6 +38,9 @@ Yes, you must have a free account on snappify.com, and your snaps must be set to
 You can review the snappify Terms of Service here: https://snappify.com/legal/terms-of-service
 
 == Changelog ==
+= 1.0.1 =
+Updated to latest version.
+
 = 1.0.0 =
 Initial release.
 
@@ -47,4 +50,4 @@ For any issues or support requests, please reach out to us through one of the fo
 - Chat with us via the chat widget on snappify.com: https://snappify.com
 - Open an issue in our GitHub repository: https://github.com/snappify-io/wp-plugin
 
-The plugin is developed and maintained by our friends at Aptex - #wirmachensoftware (https://aptex.de), and we are open to community contributions to make it even better.
+The plugin is developed and maintained by our friends at Aptex - #WirMachenSoftware (https://aptex.de), and we are open to community contributions to make it even better.

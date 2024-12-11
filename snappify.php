@@ -9,13 +9,15 @@
  * Plugin Name:       snappify
  * Plugin URI:        https://snappify.com
  * Description:       Provides a Gutenberg block for embedding snaps
- * Version:           1.0.0
- * Author:            Aptex
- * Author URI:        https://aptex.de
+ * Version:           1.0.1
+ * Author:            Snappfiy
+ * Author URI:        https://snappify.com
  * License:           GPLv3
  * License URI:       https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       snappify
  * Domain Path:       /languages
+ * Requires at least: 6.4
+ * Tested up to: 6.7
  */
 
 // If this file is called directly, abort.
